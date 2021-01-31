@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+<b>Feel free to look around, at moment i'm studying various things.</b>
 
+## about
+Currently i live in Brazil and 'am doing a bachelor in SI.
+## interests
+- `Javascript`, `Python`, `Kotlin` and `Linux`;
+- Anime and Manga.
 <!--
 **jomrs/jomrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
