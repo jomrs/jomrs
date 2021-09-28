@@ -1,11 +1,18 @@
 # Hi there 👋
-<b>Feel free to look around, at moment i'm studying various things.</b>
+<b>Feel free to look around, at moment i'm kinda busy.</b>
 
-## about
-Currently i live in Brazil and 'am doing a bachelor in SI.
-## interests
-- `Javascript`, `Python`, `Kotlin` and `Linux`;
-- Anime and Manga.
+## 🕶about
+Currently in Brazil doing a bachelor in SI.
+## 🔬interests
+- Customization from *terminal*s to *browser hacking*;
+- `Linux` and virtualization in general;
+- Films which involves fiction, drama and suspense;
+- *Anime* and *Manga*.
+## 💻coding
+mostly coding on those languages:
+- `Javascript, Typescript, Python, Kotlin and PHP`.
+
+🔦 keep it simple. *complexity* ***!==*** *quality*.
 <!--
 **jomrs/jomrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
