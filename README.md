@@ -1,29 +1,19 @@
-# Hi there 👋
-<b>Feel free to look around, at moment i'm kinda busy.</b>
+## Hi there 👋
+Feel free to look around. Just Finished my Bachelor in SI and looking forward for interesting projects.
+- 🔭 Working on a team building scalables services. 
+- 🌱 Currently learning more about DevOps.
+- 🤔 I’m looking for help with Javascript, Typescript and Linux.
+- 💬 Ask me about learning, patterns and linux.
+- 📫 My contact info is on the left.
+- ⚡ Fun fact: Learning is more about planning and committing, you don't need to rush anything go as you need.
 
-## 🕶about
-Currently in Brazil doing a bachelor in SI.
-## 🔬interests
-- Customization from *terminal*s to *browser hacking*;
-- `Linux` and virtualization in general;
-- Films which involves fiction, drama and suspense;
-- *Anime* and *Manga*.
-## 💻coding
-mostly coding on those languages:
-- `Javascript, Typescript, Python, Kotlin and PHP`.
+## interests
+- 🎨 Customization from *terminal*s to *browser hacking*;
+- 📖 Learning methodologies and patterns;
+- 🐧 `Linux` and virtualization in general;
+- ▶️ Books and films which involves fiction, drama and suspense;
+- 🖼️ *Anime* and *Manga*.
 
-🔦 keep it simple. *complexity* ***!==*** *quality*.
-<!--
-**jomrs/jomrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jomrs&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Jomrs github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomrs&layout=compact&count_private=true&theme=buefy&hide_border=true" /> |
+| -------------------- | ------------------- |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
