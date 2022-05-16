@@ -2,10 +2,9 @@
 Feel free to look around. Just Finished my Bachelor in SI and looking forward for interesting projects.
 - 🔭 Working on a team building scalables services. 
 - 🌱 Currently learning more about DevOps.
-- 🤔 I’m looking for help with Javascript, Typescript and Linux.
 - 💬 Ask me about learning, patterns and linux.
 - 📫 My contact info is on the left.
-- ⚡ Fun fact: Learning is more about planning and committing, you don't need to rush anything go as you need.
+- ⚡ Fun fact: Learning is more about planning and committing, you don't need to rush anything go at your pace.
 
 ## interests
 - 🎨 Customization from *terminal*s to *browser hacking*;
