@@ -9,5 +9,8 @@
 </p>
 
 ## Github stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jomrs&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Jomrs github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomrs&layout=compact&count_private=true&theme=buefy&hide_border=true" /> |
-| -------------------- | ------------------- |
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jomrs&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="Jomrs github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomrs&layout=compact&count_private=true&theme=transparent&hide_border=true"/>
+ </p>
+ 
