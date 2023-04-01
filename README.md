@@ -1,18 +1,13 @@
-## Hi there 👋
-Feel free to look around. Just Finished my Bachelor in SI and looking forward for interesting projects.
-- 🔭 Working on a team building scalables services. 
-- 🌱 Currently learning more about DevOps.
-- 💬 Ask me about learning, patterns and linux.
-- 📫 My contact info is on the left.
-- ⚡ Fun fact: Learning is more about planning and committing, you don't need to rush anything go at your pace.
+<h2 align="center">Hi there, I'm Jonhtan! 👋</h2>
+<p align="center">
+ I'm from brazil, most of the time working in web development and automation stuff, fell free to look around. 
+ </p>
 
-## interests
-- 🎨 Customization from *terminal*s to *browser hacking*;
-- 📖 Learning methodologies and patterns;
-- 🐧 `Linux` and virtualization in general;
-- ▶️ Books and films which involves fiction, drama and suspense;
-- 🖼️ *Anime* and *Manga*.
+## Tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,ts,js,react,vue,nodejs,mysql,redis,linux,bash,docker">
+</p>
 
+## Github stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jomrs&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Jomrs github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomrs&layout=compact&count_private=true&theme=buefy&hide_border=true" /> |
 | -------------------- | ------------------- |
-
